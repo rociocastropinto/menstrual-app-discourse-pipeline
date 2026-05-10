@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Data (licensed / private)
+*.csv
+*.xlsx
+
+# Logs
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Allow ONLY this template file (optional)
+!iaa/iaa_sample.xlsx
