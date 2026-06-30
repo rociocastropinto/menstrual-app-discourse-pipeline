@@ -4,11 +4,7 @@
 
 \## What this step does
 
-After BART filtering produced 392 relevant articles, each article 
-
-was segmented into sentence fragments. Each fragment was manually 
-
-coded Keep/No Keep against the following inclusion criterion.
+After BART filtering produced 392 relevant articles, each article was segmented into sentence fragments. Each fragment was manually coded Keep/No Keep against the following inclusion criterion.
 
 
 
@@ -30,15 +26,7 @@ A sentence was kept if it met ALL of the following:
 
 &#x20;  expert/civil society)
 
-3\. The sentence contributes a responsibility frame — it does not 
-
-&#x20;  merely describe the app's features, market position, or 
-
-&#x20;  download statistics without implicating an actor in a 
-
-&#x20;  data governance context
-
-
+3\. The sentence contributes a responsibility frame, it does not merely describe the app's features, market position, or download statistics without implicating an actor in a data governance context.
 
 \## Exclusion criterion
 
@@ -50,21 +38,15 @@ A sentence was excluded if it was:
 
 \- A metadata artifact from the Nexis Uni export
 
-\- A sentence whose responsibility frame was fully captured 
-
-&#x20; by an adjacent sentence already retained
-
+\- A sentence whose responsibility frame was fully captured by an adjacent sentence already retained
 
 
 \## Saturation point
 
 Manual review continued until theoretical saturation was reached 
 
-— the point at which new fragments no longer provided novel 
-
-actor-action relationships or framing patterns. This produced 
-
-2,673 sentences from 103 of the 392 articles.
+- the point at which new fragments no longer provided novel actor-action relationships or framing patterns. 
+- This produced 2,673 sentences from 103 of the 392 articles.
 
 
 
