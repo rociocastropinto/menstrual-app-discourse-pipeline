@@ -32,7 +32,7 @@ A sentence was kept if it met ALL of the following:
    action (sharing, collecting, selling, regulating, using, exposing)
 2. The action is attributable to a specific actor category (corporate, 
    regulatory, user, technological system, expert/civil society)
-3. The sentence contributes a responsibility frame — it does not merely 
+3. The sentence contributes a responsibility frame, it does not merely 
    describe the app's features, market position, or download statistics 
    without implicating an actor in a data governance context
 
