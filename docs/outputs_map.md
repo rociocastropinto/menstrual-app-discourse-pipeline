@@ -40,7 +40,7 @@ supports.
 
 | File | Purpose |
 |---|---|
-| `prompts/annotation_prompt.txt` | Exact LLM prompt — Appendix B |
-| `docs/codebook.md` | Full annotation scheme — Appendix G |
-| `docs/keep_nokeep_criteria.md` | Sentence curation criteria — Appendix E |
-| `data/README_data.md` | Data availability statement |
+| `prompts/annotation_prompt.txt` | Exact LLM prompt - Appendix B |
+| `docs/codebook.md` | Full annotation scheme - Appendix G |
+| `docs/keep_nokeep_criteria.md` | Sentence curation criteria - Appendix E |
+| `data/README_data.md` | Data availability information |
