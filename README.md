@@ -6,7 +6,21 @@ The thesis studies how responsibility for menstrual-data privacy is framed in En
 
 ## What this repository contains
 
-This repository provides the code, prompt materials, and reproducibility documentation for the computational pipeline used in the thesis. Because the raw news texts were collected through Nexis Uni and are subject to licensing restrictions, the repository may not include all original source texts. Where full-text redistribution is restricted, the repository instead documents the workflow, prompt design, annotation logic, and derived outputs used in the analysis.
+This repository provides the code, prompt materials, and reproducibility documentation for the computational pipeline used in the thesis. 
+
+## Data availability
+
+This repository does not include raw or processed corpus texts due to 
+Nexis Uni licensing restrictions. See [`data/README_data.md`](data/README_data.md) 
+for what is and isn't shareable, and how to reproduce the pipeline with 
+your own institutional access.
+
+## Documentation
+
+- [`docs/codebook.md`](docs/codebook.md) — full annotation coding scheme
+- [`docs/keep_nokeep_criteria.md`](docs/keep_nokeep_criteria.md) — sentence inclusion criteria
+- [`docs/outputs_map.md`](docs/outputs_map.md) — which script produces which thesis figure/table
+- [`prompts/annotation_prompt.txt`](prompts/annotation_prompt.txt) — exact LLM annotation prompt
 
 ## Pipeline overview
 
