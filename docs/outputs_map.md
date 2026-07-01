@@ -1,4 +1,4 @@
-# Output Mapping: Scripts → Thesis Chapters
+# Output Mapping: Scripts: Thesis Chapters
 
 This file maps each pipeline output to the thesis section or figure it
 supports.
