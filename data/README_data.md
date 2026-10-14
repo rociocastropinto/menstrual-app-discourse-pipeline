@@ -25,6 +25,10 @@ required format.
   Appendix D; raw kappa script output reproducible via `iaa/02_cohen_kappa.py`
   once a labeled sample is available)
 - Output-to-chapter mapping (`docs/outputs_map.md`)
+- `sentence_metadata_public.csv` — sentence-level annotation labels 
+  (2,669 rows): sentence_id, article_id, year, period, publication, 
+  construction_type, actor_category, agent_suppressed, 
+  responsibility_direction, confidence. No sentence text included.
 
 ## How to reproduce the full pipeline
 
@@ -43,4 +47,4 @@ required format.
 - After deduplication and 200-word filter: 1,497
 - After BART filtering (τ=0.45): 392 articles
 - After manual sentence curation: 2,673 sentences (from 103 of 392 articles)
-- Successfully annotated: 2,669 sentences
+- Successfully annotated and publicly released (labels only): 2,669 sentences
